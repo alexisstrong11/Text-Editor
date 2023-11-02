@@ -12,11 +12,13 @@ This is just another text editor where users can download to their local device 
 
 
 ## **Installation**
-Users must first clone the repository, https://github.com/alexisstrong11/Text-Editor, then install the necessary dependencies by running: npm install. 
+Users must first clone the repository, https://github.com/alexisstrong11/Text-Editor, then install the necessary dependencies, including express and babel, by running: npm install. 
 
 - - - -
 ## **Usage**
-Run npm start to begin runnung the server on port 3001. Then open insomnia to prompt the empty database where you can then contribute or delete thoughts/posts and add or remove specific users/friends. 
+Run 'npm run start' to open the application. To access the offline application, click on the Network Tab and change from "No throttling" to "Offline". 
+
+I thought I fixed the broken code, but still struggled to get the application running. 
 - - - -
 ## **Preview**
 Deployed link: (https://text-editor0909-9cf54b558587.herokuapp.com/)
